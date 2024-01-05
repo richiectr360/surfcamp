@@ -21,11 +21,16 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Website Demonstration
-
+Main Page
 ![Main Page](https://github.com/richiectr360/surfcamp/blob/main/gifs/1.gif)
+Travel Features
 ![Travel Features](https://github.com/richiectr360/surfcamp/blob/main/gifs/2.gif)
+Featured Articles
 ![Featured Articles](https://github.com/richiectr360/surfcamp/blob/main/gifs/3.gif)
+Artistic Features
 ![Artistic Features](https://github.com/richiectr360/surfcamp/blob/main/gifs/4.gif)
+Stay in Touch
 ![Stay in Touch](https://github.com/richiectr360/surfcamp/blob/main/gifs/5.gif)
+Sign Up
 ![Sign Up](https://github.com/richiectr360/surfcamp/blob/main/gifs/6.gif)
 
